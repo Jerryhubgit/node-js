@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .board{
+            display: flex;
+            gap: 1rem;
+        }
+        .board h1{
+            padding: 20px;
+            background-color: hsl(0, 0%, 90%);
+            border: 1px solid rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Currently using views engine to render <%= locals.message || "default" %></h1>
+
+    <div class="board">
+        <h1>1</h1>
+        <h1>2</h1>
+        <h1>3</h1>
+        <h1>4</h1>
+    </div>
+</body>
+</html>

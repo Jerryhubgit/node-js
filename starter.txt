@@ -1,0 +1,20 @@
+1. npm init -y : what does it mean
+2. what's a dependency and deve-dependency
+3. why do we use --save-dev when installing
+4. explain view engine - ejs
+5. req.params.id  = what does params mean
+6. static and dynamic routes, dynamic parameter
+7. middleware - watch a video in middleware
+                express.static(), express.urlencoded(), express.json()
+8. the different types of import and export, what they mean, when and how to use them, with serveral usecases
+9. what's a view engine
+10. locals.message, 
+
+
+1. what the difference between global and window object and why is window object not in NODE JS
+2. object - global, process
+3. differences between export, export default, module.exports
+4. how does the url module works, what's the import.meta.url do and why do we use fileURLToPath and what does it do
+5. what does import throw an error and import.meta doesn't and what does it mean
+
+
