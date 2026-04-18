@@ -16,5 +16,7 @@
 3. differences between export, export default, module.exports
 4. how does the url module works, what's the import.meta.url do and why do we use fileURLToPath and what does it do
 5. what does import throw an error and import.meta doesn't and what does it mean
+6. how does error and new error works
+7. how is writehead and setheader different 
 
 

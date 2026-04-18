@@ -12,7 +12,7 @@
   },
   "scripts": {
     "devStart": "nodemon server.js",
-    "start": "nodemon --env-file=.env server2.js"
+    "dev": "nodemon ttp.js"
   },
   "keywords": [],
   "author": "",
